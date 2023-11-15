@@ -1,0 +1,19 @@
+.Container{
+ 
+  background-color: lightgray;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  
+}
+
+.p1{
+  border: 2px solid black;
+  border-radius: 13px;
+}
+
+.nav{
+  
+  display: flex;
+  gap: 50px ;
+  background-color: grey;
+}
